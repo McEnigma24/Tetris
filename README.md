@@ -1,2 +1,1 @@
-# Tetris
-SFML Tetris
+# SFML Tetris
